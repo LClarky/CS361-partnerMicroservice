@@ -3,4 +3,5 @@ B.	The login function takes the user input and if the username and password are 
 C.	
 
  
-<img width="762" alt="Screen Shot 2023-02-13 at 7 25 22 PM" src="https://user-images.githubusercontent.com/122414709/218632343-1483a229-81cf-4deb-b348-cc9b54965a0d.png">
+<img width="702" alt="Screen Shot 2023-02-13 at 7 46 32 PM" src="https://user-images.githubusercontent.com/122414709/218634168-d2c682cc-9e84-4d68-b377-08f3f49dba42.png">
+
